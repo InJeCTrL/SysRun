@@ -2,6 +2,10 @@
 
 > Execute programs as system privilege
 
+## Preview
+
+![cmd](./preview.png)
+
 ## Usage
 
 ```
